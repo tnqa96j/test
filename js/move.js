@@ -1,7 +1,7 @@
 $(document).ready(function () {
   setTimeout(function () {
     $(".loading-wrapper").fadeOut(500);
-  }, 3000);
+  }, 5000);
 });
 //右側滑單
 $(document).ready(function () {
